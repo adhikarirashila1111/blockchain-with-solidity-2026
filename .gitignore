@@ -1,0 +1,13 @@
+node_modules
+.env
+artifacts
+artifacts-dbg
+cache
+contracts-dbg
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+hardhat.config.ts
